@@ -99,7 +99,7 @@ If you use this dataset or model in your research, please cite:
 
 ## License
 - Dataset: **CC BY-NC-SA 4.0**  
-- Code & Models: **Apache 2.0**  
+- Code & Models: **MIT license**  
 
 ---
 
