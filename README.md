@@ -1,6 +1,6 @@
 # KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz
 
-[![Paper](https://img.shields.io/badge/arXiv-Preprint-red)](link-to-arxiv)  
+[![Paper](https://img.shields.io/badge/arXiv-Preprint-red)](https://arxiv.org/abs/2509.19109)  
 [![Model](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/TTimur/xlm-roberta-base-kyrgyzNER)
 
 ## Overview
