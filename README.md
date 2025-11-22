@@ -103,4 +103,4 @@ If you use this dataset or model in your research, please cite:
 
 ---
 
-👉 Full details are available in our [paper](link-to-arxiv).
+👉 Full details are available in our [paper](https://arxiv.org/abs/2509.19109).
